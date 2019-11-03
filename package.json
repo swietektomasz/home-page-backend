@@ -4,5 +4,10 @@
   "description": "backend for my home page",
   "main": "index.js",
   "author": "swietektomasz",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "webpack": "^4.41.2",
+    "webpack-node-externals": "^1.7.2"
+  }
 }
