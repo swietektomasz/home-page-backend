@@ -1,0 +1,8 @@
+{
+  "name": "home-page-backend",
+  "version": "1.0.0",
+  "description": "backend for my home page",
+  "main": "index.js",
+  "author": "swietektomasz",
+  "license": "MIT"
+}
